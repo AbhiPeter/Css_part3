@@ -1,0 +1,35 @@
+.static1
+{
+width:200px;
+height:150px;
+border:3px solid green;
+padding:10px;
+margin:10px;
+}
+
+.static2
+{
+width:200px;
+height:150px;
+border:3px solid green;
+padding:10px;
+margin:10px;
+}
+
+
+.non-static
+{
+position: relative;
+width:200px;
+height:150px;
+border:3px solid green;
+padding:10px;
+margin:10px;
+}
+
+.absoul
+{
+    position:absolute;
+    border:5px solid green;
+    top:4px;
+}

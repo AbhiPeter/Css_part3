@@ -1,0 +1,7 @@
+span.block_dis
+{
+    display: block;
+    border:2px solid red;
+    width:150px;
+    height:100px;
+}

@@ -1,0 +1,55 @@
+.div1
+{
+    border:2px solid green;
+    width:150px;
+    height:100px;  
+    float:left;
+    margin:0 25px 0 100px;  
+    padding:25px 0px 25px 25px; 
+}
+
+.div2
+{
+    border:2px solid green;
+    width:150px;
+    height:100px;    
+    float:left;
+    margin:0 25px 0 25px; 
+    padding:25px 0px 25px 25px; 
+}
+
+.div3
+{
+    border:2px solid green;
+    width:150px;
+    height:100px;    
+    float:left;
+    float:left;
+    margin:0 25px 0 25px;  
+    padding:25px 0px 25px 25px; 
+}
+
+
+.div4
+{
+    border:2px solid green;
+    width:150px;
+    height:100px;    
+    float:left;
+    float:left;
+    margin:0 25px 0 25px;  
+    padding:25px 0px 25px 25px; 
+}
+
+.div5
+{
+    border:2px solid green;
+    width:150px;
+    height:100px;    
+    float:left;
+    float:left;
+    margin:0 25px 0 25px;  
+    padding:25px 0px 25px 25px; 
+}
+
+

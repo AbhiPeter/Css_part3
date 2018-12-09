@@ -1,0 +1,27 @@
+.div1
+{
+    border:2px solid green;
+    float:left;
+    width:150px;
+    height:100px;
+    text-align:center;
+    padding:10px;
+
+}
+
+.div2
+{
+    border:2px solid green;
+    float:right;
+    width:150px;
+    height:100px;
+    text-align:center;
+    padding:10px;
+
+}
+
+.span
+{
+    display: block;
+    clear:both;
+}

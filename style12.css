@@ -1,0 +1,14 @@
+.overflow
+{
+    /*
+    
+    scrolled overflow is given here
+
+    */
+    border:1px solid green;
+    width:100px;
+    height:90px;
+    overflow:scroll;
+    margin:30px;
+    
+}
